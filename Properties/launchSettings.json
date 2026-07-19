@@ -17,7 +17,7 @@
     },
     "buoi18": {
       "commandName": "Project",
-      "dotnetRunMessages": "true",
+      "dotnetRunMessages": true,
       "launchBrowser": true,
       "applicationUrl": "https://localhost:5069;http://localhost:5070",
       "environmentVariables": {

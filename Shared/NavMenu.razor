@@ -32,7 +32,11 @@
         <div class="dropdown-menu">
             <NavLink ActiveClass="active-nav text-danger" Match="NavLinkMatch.All" class="dropdown-item" href="/component/parent">Parent</NavLink>
         </div>
+        <div class="dropdown-menu">
+            <NavLink ActiveClass="active-nav text-danger" Match="NavLinkMatch.All" class="dropdown-item" href="/component/list-car">List car</NavLink>
+        </div>
     </li>
+    @* onway *@
     <li class="nav-item dropdown">
         <NavLink
         ActiveClass="active-nav text-danger" Match="NavLinkMatch.Prefix"
@@ -46,6 +50,36 @@
         <div class="dropdown-menu">
             <NavLink ActiveClass="active-nav text-danger" Match="NavLinkMatch.All" class="dropdown-item" href="/oneway/couter">Couter</NavLink>
             <NavLink ActiveClass="active-nav text-danger" Match="NavLinkMatch.All" class="dropdown-item" href="/oneway/product">product</NavLink>
+        </div>
+    </li>
+    @* twoway *@
+     <li class="nav-item dropdown">
+        <NavLink
+        ActiveClass="active-nav text-danger" Match="NavLinkMatch.Prefix"
+            class="nav-link dropdown-toggle"
+            data-bs-toggle="dropdown"
+            href="/twoway"
+            role="button"
+            aria-haspopup="true"
+            aria-expanded="false"
+            >twoway</NavLink>
+        <div class="dropdown-menu">
+            <NavLink ActiveClass="active-nav text-danger" Match="NavLinkMatch.All" class="dropdown-item" href="/twoway/register">Register</NavLink>
+        </div>
+    </li>
+    @* Bai tap *@
+     <li class="nav-item dropdown">
+        <NavLink
+        ActiveClass="active-nav text-danger" Match="NavLinkMatch.Prefix"
+            class="nav-link dropdown-toggle"
+            data-bs-toggle="dropdown"
+            href="/baitap"
+            role="button"
+            aria-haspopup="true"
+            aria-expanded="false"
+            >Bài tập</NavLink>
+        <div class="dropdown-menu">
+            <NavLink ActiveClass="active-nav text-danger" Match="NavLinkMatch.All" class="dropdown-item" href="/baitap/change-car">Change Car</NavLink>
         </div>
     </li>
 

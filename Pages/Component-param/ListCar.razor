@@ -1,0 +1,40 @@
+@page "/component/list-car";
+
+
+@* hien thi ds 4 chiec xe *@
+<h1 class="text-center">LIST CAR</h1>
+<div class="row my-5">
+
+
+    @foreach (var item in lstCar)
+    {
+        <div class="col-3">
+            <CarItem item="@item" changeCarItem = "changeCar" />
+        </div>
+    }
+</div>
+@* @if (currentCar != null)
+{ *@
+    <ModelCar car="@currentCar" />
+@* } *@
+
+
+
+@code {
+    public CarItemVM currentCar = null;
+    @* ds 4 chiêc xe *@
+    public List<CarItemVM> lstCar = new List<CarItemVM>(){
+        new CarItemVM("Ô tô black",20000,"CarBasic/products/black-car.jpg","Xe ô tô màu đen"),
+        new CarItemVM("Ô tô red",20000,"CarBasic/products/red-car.jpg","Xe ô tô màu đen"),
+        new CarItemVM("Ô tô silver",20000,"CarBasic/products/silver-car.jpg","Xe ô tô màu đen"),
+        new CarItemVM("Ô tô steel",20000,"CarBasic/products/steel-car.jpg","Xe ô tô màu đen"),
+        };
+
+    // ham thay doi currencar
+    public void changeCar(CarItemVM newCar)
+    {
+        currentCar = newCar;
+    }
+
+    
+}

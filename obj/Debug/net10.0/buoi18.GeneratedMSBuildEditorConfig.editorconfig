@@ -46,8 +46,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vX0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/Pages/BaiTap/ChangeCar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQmFpVGFwL0NoYW5nZUNhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/Pages/Component-param/CarItem.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50LXBhcmFtL0Nhckl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/Pages/Component-param/ChildComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50LXBhcmFtL0NoaWxkQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/Pages/Component-param/ListCar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50LXBhcmFtL0xpc3RDYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/Pages/Component-param/ModelCar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50LXBhcmFtL01vZGVsQ2FyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/Pages/Component-param/ParentComponent.razor]
@@ -94,10 +110,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0FkbWluTGF5b3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/Shared/Footer.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0Zvb3Rlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -105,6 +117,10 @@ build_metadata.AdditionalFiles.CssScope =
 [/Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/Shared/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0Zvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-u3w9vono36
 
 [/Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=

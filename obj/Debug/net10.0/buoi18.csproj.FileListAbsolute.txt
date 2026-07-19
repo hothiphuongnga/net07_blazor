@@ -67,8 +67,6 @@
 /Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/obj/Debug/net10.0/compressed/fi132mwwvt-{0}-61n19gt1b8-61n19gt1b8.gz
 /Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/obj/Debug/net10.0/compressed/rl40wog7dc-{0}-wmp8iwak4q-wmp8iwak4q.gz
 /Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/obj/Debug/net10.0/compressed/iq582taft0-{0}-2lgipwaf5j-2lgipwaf5j.gz
-/Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/obj/Debug/net10.0/compressed/6h5h0t1z2q-{0}-blm6zgpj5k-blm6zgpj5k.gz
-/Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/obj/Debug/net10.0/compressed/c5c98jbe9x-{0}-blm6zgpj5k-blm6zgpj5k.gz
 /Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/obj/Debug/net10.0/staticwebassets.build.json
 /Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/obj/Debug/net10.0/staticwebassets.build.json.cache
 /Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/obj/Debug/net10.0/staticwebassets.development.json
@@ -80,3 +78,6 @@
 /Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/obj/Debug/net10.0/buoi18.pdb
 /Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/obj/Debug/net10.0/buoi18.genruntimeconfig.cache
 /Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/obj/Debug/net10.0/ref/buoi18.dll
+/Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/obj/Debug/net10.0/scopedcss/Shared/Footer.razor.rz.scp.css
+/Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/obj/Debug/net10.0/compressed/6h5h0t1z2q-{0}-j0r48vumqn-j0r48vumqn.gz
+/Users/phuongnga/Documents/Cybersoft_class/NET07/B18/buoi18/obj/Debug/net10.0/compressed/c5c98jbe9x-{0}-j0r48vumqn-j0r48vumqn.gz

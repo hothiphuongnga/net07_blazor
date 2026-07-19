@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 public class RegisterVM
@@ -16,5 +17,10 @@ public class RegisterVM
     [RegularExpression(@"^[\d\s-]{9,13}$",ErrorMessage ="số điện thoại không hợp lệ")]
 
     public string Phone { get; set; }
+    public bool Gender {get; set;}  = true;
+
+    public List<string> Hobby { get; set; } = new List<string>();
+
+    public string Country {get; set;}
 
 }
